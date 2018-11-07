@@ -410,3 +410,9 @@
 2018-11-07 16:19:48,688 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-11-07 16:19:48,690 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-11-07 16:19:48,692 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-07 16:46:57,536 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.exam:multi-module-maven-project:0.0.1-SNAPSHOT @ C:\Users\Dev INFO\Desktop\ESIPE-ING2\Outils_pour_le_cycle_de_vie_du_logiciel\Examen\Maven_Project\multi-module-maven-project\pom.xml.
+2018-11-07 16:46:58,451 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.exam:ManageCentrale:0.0.1-SNAPSHOT @ C:\Users\Dev INFO\Desktop\ESIPE-ING2\Outils_pour_le_cycle_de_vie_du_logiciel\Maven_Project\multi-module-maven-project\ManageCentrale\pom.xml.
+2018-11-07 16:47:00,929 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:47:00,932 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-11-07 16:47:00,935 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-07 16:47:00,936 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
